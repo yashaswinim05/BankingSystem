@@ -109,8 +109,12 @@ Enter your choice (1-4): 4
 Thank you for using the banking system!
 
 ✅ Validations & Exception Handling
+
 Deposit and withdrawal amounts must be greater than 0
+
 Custom InsufficientFundsException for low balance
+
 InputMismatchException for invalid input types
+
 IllegalArgumentException for empty names and numbers
 
